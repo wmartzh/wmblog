@@ -1,0 +1,12 @@
+@import 'color_variables';
+@import 'normalize.scss';
+@import 'flexboxgrid.scss';
+
+@import 'components/navbar.scss';
+
+@import url('https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed|Roboto+Slab&display=swap');
+
+
+.title{
+    font-family: 'Roboto Regular', sans-serif;
+}
