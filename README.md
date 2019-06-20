@@ -1,0 +1,2 @@
+# wmblog
+my personal blog
